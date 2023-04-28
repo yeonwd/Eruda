@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.project.eruda"},{"l":"com.project.eruda.data"},{"l":"com.project.eruda.service"},{"l":"com.project.eruda.view"}]
