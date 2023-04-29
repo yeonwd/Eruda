@@ -1,4 +1,4 @@
-### Eruda: 학생관리시스템
+## Eruda: 학생관리시스템
 
 * Java Console Project
 * Windows 10/11
